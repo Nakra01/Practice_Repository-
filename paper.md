@@ -1,4 +1,4 @@
-Git Test Paper
+Git Test Paper, a document for my knowledge
 
 
 Zak Pinkney 
