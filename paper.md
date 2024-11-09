@@ -1,7 +1,7 @@
-Git Test Paper
+Git Test Paper with jibberish and foul play
 
 
-Zak Pinkney 
+Zak Pinkney, Stephanie Young 
 
 
 Introduction:
