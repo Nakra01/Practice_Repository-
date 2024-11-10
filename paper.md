@@ -2,7 +2,7 @@
 Git Test Paper, a document for my knowledge, jibberish and foul play
 
 
-Zak Pinkney, Stephanie Young 
+Max Pinkney, Stephanie Young 
 
 
 Introduction:
