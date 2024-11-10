@@ -27,3 +27,5 @@ This is the results section
 ***Conclusion***
 
 
+***Author Affiliations***
+Max Pinkney, Rory Pinkney, Beth Pinkney
