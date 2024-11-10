@@ -1,7 +1,8 @@
-Git Test Paper, a document for my knowledge
+<<<<<<< HEAD
+Git Test Paper, a document for my knowledge, jibberish and foul play
 
 
-Zak Pinkney 
+Zak Pinkney, Stephanie Young 
 
 
 Introduction:
@@ -13,3 +14,6 @@ Previous studies from Young et al
 
 Give context for the research
 This is the context of the research 
+
+
+***Simulations***
